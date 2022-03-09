@@ -1,5 +1,7 @@
 # Ng2PdfViewer Demo
 
+![demo](demo.png) 
+
 This repository is an example of how to build an Angular PDF viewer with [ng2-pdf-viewer](https://www.npmjs.com/package/ng2-pdf-viewer).
 
 You can read about the example project in our [blog post](https://pspdfkit.com/blog/2021/how-to-build-an-angular-pdf-viewer-with-ng2-pdf-viewer/).
